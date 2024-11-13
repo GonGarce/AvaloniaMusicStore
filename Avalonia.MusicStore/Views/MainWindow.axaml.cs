@@ -2,6 +2,7 @@ using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using Avalonia.Controls;
+using Avalonia.MusicStore.Models;
 using Avalonia.MusicStore.ViewModels;
 
 namespace Avalonia.MusicStore.Views;
